@@ -1,0 +1,2 @@
+Olá, esse projeto se chama *Super Mario Cards* foi feito inspirado no projeto X-Devs do @devemdobro. São cartas dos personagens da franquia Super Mario Bros e contam uma descrição sobre cada um. <br/>
+Aqui pratiquei as linguagens HTML, CSS, e JavaScript.

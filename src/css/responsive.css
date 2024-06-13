@@ -1,0 +1,24 @@
+@media screen and (max-width: 768px) {
+    .cabecalho {
+        padding: 20px 0;
+    }
+
+    .cabecalho h1 {
+        font-size: 32px;
+    }
+
+    .personagens-slider {
+        justify-content: space-between;
+        gap: 10px;
+    }
+
+    .btn-seta {
+        padding: 80px 30px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    .lista-personagens {
+        height: 480px;
+    }
+}
